@@ -1,6 +1,6 @@
 # Document360 API CRUD Console Application
 
-A minimal Python 3.8+ console app that performs Create, Read, Update, and Delete operations on Document360 folders using the **MVP pattern**.
+A minimal Python 3.8+ console app that performs Create, Read, Update, and Delete operations on Document360 folders.
 
 ## Features
 
