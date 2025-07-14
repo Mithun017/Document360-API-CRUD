@@ -51,11 +51,4 @@ Success: Folder ID folder_xyz renamed to 'UpdatedFolder_xyz'
 Success: Folder ID folder_xyz deleted
 ```
 
-## Reminder
-
-* Never commit real API tokens
-* Use `api_token = "your_api_token_here"` as placeholder
-
----
-
-**All the best with your submission!**
+**Thank You**
