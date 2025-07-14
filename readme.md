@@ -26,7 +26,7 @@ api_token = "your_api_token_here"
 Run the app:
 
 ```bash
-python document360_api_mvp.py
+python document360_api.py
 ```
 
 ## What It Does
